@@ -101,7 +101,7 @@ Google Colab: Used as the development and execution environment.
 
 GitHub: Used for source-code storage, version control, and project documentation.
 
-8. Skills Demonstrated
+**8. Skills Demonstrated**
 
 Data Cleaning and Data Processing
 
@@ -125,7 +125,7 @@ Problem-Solving and Process Improvement
 
 GitHub-Based Project Documentation
 
-9. Business Value
+**9. Business Value**
 
 This project demonstrates how programming can be applied to solve a practical operational reporting problem.
 
@@ -133,7 +133,7 @@ By automating repetitive calculations and standardising disposition-based classi
 
 It also establishes a reusable foundation for more advanced reporting, such as monthly performance summaries, trend analysis, and dashboards.
 
-10. Future Scope
+**10. Future Scope**
 
 Potential enhancements include:
 
@@ -149,7 +149,7 @@ Scheduled processing of new calling data.
 
 Integration with additional reporting systems.
 
-11. Conclusion
+**11. Conclusion**
 
 The Python-Based Call Talktime Report Automation project applies data analytics and process automation to a real-world reporting challenge.
 
