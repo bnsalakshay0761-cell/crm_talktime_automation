@@ -154,3 +154,6 @@ Integration with additional reporting systems.
 The Python-Based Call Talktime Report Automation project applies data analytics and process automation to a real-world reporting challenge.
 
 It combines business understanding with Python-based data processing to transform raw calling records into meaningful performance metrics. The project demonstrates my practical learning in Python, Pandas, reporting automation, and operational data analysis.
+
+
+
